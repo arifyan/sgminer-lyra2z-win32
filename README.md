@@ -1,2 +1,4 @@
 # sgminer-lyra2z-win32
-support for x86 win
+Support for x86 win
+Zcoin lyra2z AMD miner.
+
